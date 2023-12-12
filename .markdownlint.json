@@ -6,7 +6,7 @@
     "code_blocks": false,
     "tables": false,
     "stern": true,
-    "line_length": -1
+    "line_length": -2
   },
   "no-bare-urls": false,
   "no-blanks-blockquote": false,
